@@ -1,4 +1,4 @@
-FROM quay.io/repository/eclipse/che-java11-maven
+FROM quay.io/eclipse/che-java11-maven
 
 MAINTAINER tech-tejendra
 
